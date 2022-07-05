@@ -11,7 +11,7 @@
  */
 int print_last_digit(int num)
 {
-		int lastDigit;
+	int lastDigit;
 
 	f (num == INT_MIN)
 		num += 1000;
