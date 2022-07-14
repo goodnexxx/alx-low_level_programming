@@ -3,6 +3,7 @@
 
 /**
  * reverse_array -  a function that reverses the content of an array of integers
+
  * @a: a pointer to the array of integers that will be reversed
  * @n: the number of elements in the array
  * Return: returns nothing
